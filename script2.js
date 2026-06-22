@@ -32,7 +32,7 @@
 
     const DEFAULT_LOCATION = {
       lat:     26.783228,
-      lng:     192.318054,
+      lng:     90.318054,
       title:   "Title",
       address: "Unnamed Road, Unnamed Village, State, Country",
     };
